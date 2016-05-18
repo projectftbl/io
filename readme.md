@@ -1,3 +1,3 @@
-### @ftbl/icons
+### @ftbl/io
 
-JSX SVG Icons
+React websockets tools.
