@@ -1,6 +1,6 @@
 {
-  "name": "@ftbl/io",
-  "version": "1.0.0",
+  "name": "@recipher/io",
+  "version": "1.0.1",
   "description": "Websocket client tools",
   "main": "dist/index",
   "scripts": {
@@ -16,11 +16,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/io.git"
+    "url": "git@github.com:recipher/io.git"
   },
   "dependencies": {
-    "@ftbl/session-web": "^1.0.5",
-    "@ftbl/support": "^1.0.1",
+    "@recipher/session-web": "^1.0.5",
+    "@recipher/support": "^1.0.1",
     "lodash": "^3.10.1",
     "react": "^0.14.0",
     "redux": "^3.5.2",
@@ -28,7 +28,7 @@
     "socket.io-client": "^1.4.6"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.5.0",
+    "@recipher/gulp": "^1.5.0",
     "babel": "^6.3.26",
     "babel-cli": "^6.4.5",
     "babel-core": "^6.4.5",

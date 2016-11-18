@@ -1,3 +1,3 @@
-### @ftbl/io
+### @recipher/io
 
 React websockets tools.
